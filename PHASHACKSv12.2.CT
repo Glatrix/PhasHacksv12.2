@@ -422,7 +422,7 @@ GameAssembly.dll+E70D7D: 48 89 B4 24 B8 00 00 00  - mov [rsp+000000B8],rsi
                   <AssemblerScript>{ Game   : Phasmophobia.exe
   Version: 
   Date   : 2020-12-30
-  Author : Ry
+  Author : Coderbox1
 
   This script does blah blah blah
 }
@@ -500,7 +500,7 @@ GameAssembly.dll+D9BF39: 48 85 C0              - test rax,rax
                   <AssemblerScript>{ Game   : Phasmophobia.exe
   Version: 
   Date   : 2020-12-30
-  Author : Ry
+  Author : Coderbox1
 
   This script does blah blah blah
 }
